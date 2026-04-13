@@ -16,6 +16,10 @@ This project detects emotions in tweets using the ALBERT transformer model.
 | LoRA       | 0.5175  | 0.4108  |
 | Full       | 0.9305  | 0.9290  |
 
+## 📊 Model Comparison
+
+![Model Comparison](results.png)
+
 ## ⚙️ How to Run
 
 ### 1. Run Notebook
@@ -26,6 +30,3 @@ Open `notebook.ipynb` and run all cells.
 streamlit run app.py
 
 
-## 📊 Model Comparison
-
-![Model Comparison](results.png)
